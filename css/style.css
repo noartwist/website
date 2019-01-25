@@ -1,3 +1,25 @@
-.current{
-    color: green
+body{
+    background-color: silver;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+/* nav{
+    font-family: Impact;
+} */
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li{
+	text-decoration: none;
+	display:inline;
+	background-color: white;
+	color: black;
+}
+
+
+a.current{
+    color: red
+}
+
