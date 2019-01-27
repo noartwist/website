@@ -31,7 +31,7 @@ li{
 
 
 a.current{
-    color: red;
+    color: darkgreen;
     border: 2px solid black;
 }
 
